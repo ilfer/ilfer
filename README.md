@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ![Ferdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilfer&show_icons=true&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilfer&count_private=true&hide_progress=true&langs_count=10)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ilfer&theme=transparent)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=ilfer&style=flat-square)
